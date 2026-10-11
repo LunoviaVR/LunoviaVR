@@ -1,156 +1,226 @@
- 
-# 💙 Hey there, I'm Luno! ✨
+# ☾ LUNO.exe
 
-### `AI-First Software Developer` · `Product Designer` · `Vibe Coder`
+**`SOFTWARE CREATOR` · `PRODUCT DESIGNER` · `AI-FIRST DEVELOPER`**
 
-> ✦ Turning little ideas into real software, one prompt, one bug, and one cup of coffee at a time. ☕
- 
-Welcome to my little corner of GitHub! ♡
+*Made after dark. Designed with intention. Built in electric blue.*
 
-I'm an independent software creator who loves building **modern, useful, and aesthetically pleasing applications**. Most of my projects start with a simple thought:
-
-*“I wish there was an app that did this exactly how I wanted...”*
-
-And then I go make one! ✨
+![AI First](https://img.shields.io/badge/DEVELOPMENT-AI--FIRST-008CFF?style=for-the-badge&labelColor=080B12)
+![Open Source](https://img.shields.io/badge/PROJECTS-OPEN_SOURCE-008CFF?style=for-the-badge&labelColor=080B12)
+![Design](https://img.shields.io/badge/AESTHETIC-DARK_MODE-008CFF?style=for-the-badge&labelColor=080B12)
 
 ---
 
-## 🦋 A Little About Me
-
-- 💙 **Favorite color:** Blue. Obviously.
-- 🎮 **Gamer at heart:** I love gaming, technology, and creating things that make digital life better.
-- 🖥️ **Software enthusiast:** Desktop utilities, productivity tools, and gaming-related applications are my happy place.
-- 🎨 **Design obsessed:** Clean interfaces, frosted glass, smooth interactions, and thoughtful little details.
-- 🤖 **AI-first creator:** I use Claude Code to bring my software concepts to life.
-- 🐛 **Professional bug discoverer:** I test my apps, find what breaks, and make sure it gets fixed.
-- 🌙 **Night owl energy:** Fueled by curiosity, creativity, and probably too much coffee.
-
-**My philosophy?**
-
-*Software should be beautiful, functional, intuitive, and enjoyable to use.*
-
----
-
-## 🛠️ How I Build Things
-
-I'm an **AI-First Software Developer & Product Designer**, which means my development process looks a little different from traditional programming.
-
-I focus on the creative vision, functionality, design, user experience, and quality of my applications, while AI handles much of the code implementation.
-
-| My Role 💙 | What I Do |
-|---|---|
-| 💡 **Concept Creator** | Dream up software ideas and identify problems worth solving |
-| 🎨 **Product Designer** | Plan interfaces, features, workflows, and user experiences |
-| 🧠 **AI Development Director** | Guide Claude Code through implementation and iteration |
-| 🐛 **QA Tester** | Test functionality, reproduce bugs, and verify fixes |
-| 🔧 **Product Maintainer** | Improve, refine, and evolve my applications |
-
-**Yes, I vibe code!** ✨
-
-But I'm also actively involved in planning, testing, refining, and maintaining everything I create.
-
-I believe AI is a powerful creative tool, and that great software comes from having a clear vision, thoughtful design, and the willingness to keep improving.
-
----
-
-## 💻 My Little Software Collection
-
-Here are some of the projects I'm bringing to life!
-
-### 📸 [FrameBurst](https://github.com/LunoviaVR/FrameBurst)
-
-**Capture moments. Make them yours.**
-
-A GPU-accelerated screenshot application for Windows, built with a focus on performance, customization, and a modern user experience.
-
-✨ *For people who want more from their screenshot tools.*
-
-### 🎮 [PlaytimeTracker](https://github.com/LunoviaVR/PlaytimeTracker)
-
-**Because every gaming hour tells a story.**
-
-A Windows application designed to track gaming sessions and playtime, helping gamers keep a record of their adventures.
-
-✨ *Made by someone who loves games, for people who love games.*
-
-### 🌱 More Little Creations Coming Soon...
-
-I have a habit of turning *"wouldn't it be cool if..."* into actual software.
-
-Stay tuned! ♡
-
----
-
-## 🎨 My Design Philosophy
+## ✦ 01 / CREATOR DOSSIER
 
 ```text
-╭──────────────────────────────────╮
-│                                  │
-│   ✦ Clean & Modern Interfaces    │
-│   ✦ Frosted Glass Aesthetics     │
-│   ✦ Beautiful Blue Accents       │
-│   ✦ Smooth User Experiences      │
-│   ✦ Useful, Thoughtful Features  │
-│   ✦ Minimal Visual Clutter       │
-│                                  │
-╰──────────────────────────────────╯
+╔════════════════════════════════════════════╗
+║                                            ║
+║   DESIGNATION   : LUNO                     ║
+║   CLASS         : INDEPENDENT CREATOR      ║
+║   DEVELOPMENT   : AI-FIRST                 ║
+║   SPECIALTY     : DESKTOP APPLICATIONS     ║
+║   INTERFACE     : DARK / GLASS / MODERN     ║
+║   ACCENT        : ELECTRIC BLUE            ║
+║   STATUS        : ALWAYS BUILDING          ║
+║                                            ║
+╚════════════════════════════════════════════╝
 ```
 
-I love applications that feel as good to use as they look.
+I create software for one simple reason:
 
-My goal isn't just to make something that works. It's to make something I'd genuinely enjoy opening every day.
+**I want applications that work exactly how I think they should.**
 
----
+Sometimes that means rebuilding an existing concept. Sometimes it means creating something entirely new.
 
-## 🧰 My Creative Toolkit
+My projects focus on powerful functionality, thoughtful user experiences, and modern interfaces that don't sacrifice usability for appearance.
 
-| Tool | How I Use It |
-|---|---|
-| 🤖 **Claude Code** | AI-powered software implementation and development |
-| 🐙 **GitHub** | Open-source projects, version control, and releases |
-| 🪟 **Windows** | My primary software development platform |
-| 🎨 **UI/UX Design** | Planning modern interfaces and polished user experiences |
-| 🧪 **Hands-On Testing** | Finding bugs, evaluating features, and improving quality |
+No unnecessary clutter. No pointless complexity.
 
-*I'm always exploring new technologies, tools, and creative possibilities.*
+Just software with a purpose.
+
+> *"If the software I want doesn't exist, I'll build it."*
 
 ---
 
-## 🌸 A Few Things I Believe
+## ✦ 02 / THE CREATIVE PROCESS
 
-💙 **Build what you love.** Passion projects deserve just as much care as commercial software.
+### `VISION → DESIGN → GENERATE → TEST → REFINE`
 
-🌱 **Never stop improving.** Every bug, redesign, and feature request is an opportunity to make something better.
+I'm an **AI-First Software Developer, Product Designer & Vibe Coder**.
 
-✨ **Creativity matters.** Great products start with ideas, not just lines of code.
+I use AI-assisted development to transform my ideas into functioning software, with an emphasis on defining the product rather than manually writing every line of code.
 
-🤖 **AI is a tool, not a personality.** The vision, direction, and decisions behind my projects come from me.
+| DESIGNATION | RESPONSIBILITY |
+|:---|:---|
+| `01 / CONCEPT` | Identify problems, develop ideas, and define the purpose |
+| `02 / DESIGN` | Architect workflows, features, interfaces, and user experiences |
+| `03 / DEVELOPMENT` | Direct AI-assisted implementation using Claude Code |
+| `04 / QUALITY` | Test applications, investigate bugs, and validate fixes |
+| `05 / EVOLUTION` | Iterate, maintain, redesign, and continuously improve |
 
-🦋 **Share what you create.** Open-source software is a wonderful way to contribute to the community.
+**Yes, I vibe code.**
 
----
+The code might be AI-generated, but the vision, creative direction, requirements, and product decisions are mine.
 
-## 📊 A Little GitHub Magic
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LunoviaVR&show_icons=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LunoviaVR&layout=compact&theme=transparent&title_color=60A5FA&text_color=94A3B8&hide_border=true)
-
----
-
-## 💌 Let's Connect!
-
-Feel free to explore my repositories, try out my applications, open an issue, or share a suggestion!
-
-I'm always interested in making my projects better.
-
-**🐙 GitHub:** [@LunoviaVR](https://github.com/LunoviaVR)
+I believe the tools used to build something matter less than the thought, care, and accountability behind the finished product.
 
 ---
 
-### 🌙 Thanks for stopping by! ♡
+## ✦ 03 / THE PROJECT ARCHIVE
 
-*Just a gamer with a lot of ideas, a love for beautiful software, and an AI coding partner helping bring it all together.*
+*An evolving collection of software built around usability, performance, and personal creative vision.*
 
-**Made with 💙, curiosity, and a little bit of ✨ vibe coding ✨**
+### ⚡ [FRAMEBURST](https://github.com/LunoviaVR/FrameBurst)
 
+**`SCREEN CAPTURE` / `WINDOWS` / `GPU ACCELERATION`**
+
+> Capture the moment. Control the result.
+
+A modern, GPU-accelerated screenshot application designed to deliver powerful capture functionality with a clean, customizable user experience.
+
+**Design priorities:** Performance · Precision · Customization · Modern UI
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-008CFF?style=flat-square&logo=github&logoColor=white&labelColor=10151F)](https://github.com/LunoviaVR/FrameBurst)
+
+### ☾ [PLAYTIMETRACKER](https://github.com/LunoviaVR/PlaytimeTracker)
+
+**`GAME TRACKING` / `WINDOWS` / `DESKTOP UTILITY`**
+
+> Every hour has a story.
+
+A gaming activity tracker built to help players record, organize, and explore the time they spend across their favorite games.
+
+**Design priorities:** Simplicity · Tracking · Organization · Accessibility
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-008CFF?style=flat-square&logo=github&logoColor=white&labelColor=10151F)](https://github.com/LunoviaVR/PlaytimeTracker)
+
+### ✦ [UNRELEASED / UNKNOWN]
+
+```text
+> searching for the next idea...
+> concept development ........ ACTIVE
+> creative experiments ....... ONGOING
+> new projects ............... INEVITABLE
+```
+
+*There is always something else I want to build.*
+
+---
+
+## ✦ 04 / DESIGN DNA
+
+```text
+┌──────────────────────────────────────────┐
+│  VISUAL IDENTITY // ELECTRIC MIDNIGHT    │
+├──────────────────────────────────────────┤
+│                                          │
+│  01  BLACK & CHARCOAL FOUNDATIONS        │
+│  02  ELECTRIC BLUE ACCENTS               │
+│  03  FROSTED GLASS & TRANSPARENCY        │
+│  04  CLEAN TYPOGRAPHY                    │
+│  05  FLUID INTERACTIONS                  │
+│  06  PURPOSEFUL MINIMALISM               │
+│  07  FUNCTION BEFORE DECORATION          │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+**Dark interfaces. Sharp details. Zero compromise on usability.**
+
+I gravitate toward applications with strong visual identities, refined layouts, subtle animations, and thoughtful interaction design.
+
+I like a little personality in my software.
+
+Not every application needs to look like another generic utility from a decade ago.
+
+**Beautiful software should still be powerful software.**
+
+---
+
+## ✦ 05 / DEVELOPMENT ARSENAL
+
+| TOOL / TECHNOLOGY | PURPOSE |
+|:---|:---|
+| **Claude Code** | AI-assisted software development and implementation |
+| **GitHub** | Version control, open-source collaboration, and distribution |
+| **Windows** | Primary application development platform |
+| **UI / UX Design** | Interfaces, interaction systems, and product workflows |
+| **Quality Assurance** | Functional testing, bug reproduction, and validation |
+| **Creative Direction** | Product identity, visual consistency, and design decisions |
+
+```text
+[ IDEA ] ── [ DESIGN ] ── [ BUILD ]
+                          │
+                          ▼
+[ RELEASE ] ◄─ [ REFINE ] ◄─ [ TEST ]
+     │
+     └──────────► [ IMPROVE ]
+```
+
+---
+
+## ✦ 06 / OPERATING PRINCIPLES
+
+**`01 // CREATE WITH INTENTION`**
+
+Build software to solve real problems, not simply to add another project to a repository.
+
+**`02 // OWN THE VISION`**
+
+AI can implement instructions, but defining what should exist and how it should function requires direction.
+
+**`03 // QUESTION EVERYTHING`**
+
+If an interaction feels awkward, a feature feels unnecessary, or a design feels wrong, improve it.
+
+**`04 // TEST WHAT YOU BUILD`**
+
+Generated code is not automatically reliable. Test the results, identify the issues, and verify the solutions.
+
+**`05 // KEEP EVOLVING`**
+
+Software is never truly finished. There is always room for refinement, optimization, and new ideas.
+
+**`06 // SHARE THE WORK`**
+
+Open-source development makes it possible for others to explore, learn from, contribute to, and benefit from what gets created.
+
+---
+
+## ✦ 07 / SYSTEM ANALYTICS
+
+*Repository activity and development statistics.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LunoviaVR&show_icons=true&theme=transparent&title_color=008CFF&icon_color=008CFF&text_color=9BA9BD&hide_border=true&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LunoviaVR&layout=compact&theme=transparent&title_color=008CFF&text_color=9BA9BD&hide_border=true&bg_color=00000000)
+
+---
+
+## ✦ 08 / OPEN CHANNEL
+
+Have a feature suggestion? Found something broken? Interested in one of my projects?
+
+Explore the repositories, open an issue, or contribute to development.
+
+**Constructive feedback is always welcome.**
+
+[![GitHub](https://img.shields.io/badge/GITHUB-LUNOVIAVR-008CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12)](https://github.com/LunoviaVR)
+
+---
+
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║         BUILT DIFFERENTLY.               ║
+║         DESIGNED DELIBERATELY.           ║
+║         ALWAYS EVOLVING.                 ║
+║                                          ║
+║              LUNO // EOF                 ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+*Powered by creativity, curiosity, and an unreasonable number of iterations.*
+
+**☾ THE VISION IS HUMAN. THE WORKFLOW IS AI-FIRST.**
